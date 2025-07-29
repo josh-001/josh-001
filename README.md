@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hey there! I'm a curious and driven developer who loves exploring the intersection of data, AI, and web technologies.
+
+My go-to technologies include **Python** for everything from data manipulation (NumPy, Pandas, EDA, Web Scraping) to building powerful backends (Django, FastAPI, Streamlit). I also work with **React** for front-end development, have experience with **ROS**, **AWS**, and enjoy visualizing data with **Power BI**.
+
+Check out some of my work, like my project on **Obstacle Detection using OpenCV and YOLOv5**, or my deep dive into **Data Scraping and EDA Analysis**.
+
 
 ## 🌐 Socials:
 <!-- [[Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/josh-001)  -->
